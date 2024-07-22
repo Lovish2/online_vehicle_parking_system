@@ -1,4 +1,5 @@
-# Smart Parking - PHP
+# online vehicle parking system -
+
 
 1. Install XAMPP/WAMP
 
